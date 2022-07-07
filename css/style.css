@@ -111,7 +111,7 @@ main>aside{
 .trabajos {
    display: flex;
    justify-content: right;
-   margin-top: 35px;
+   /*margin-top: 35px;*/
 }
 
 .picasion2 {
