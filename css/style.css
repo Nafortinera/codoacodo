@@ -111,8 +111,8 @@ main>aside{
 
 
 .trabajos {
-   display: flex;
-   margin-top: auto;
+   /*display: flex;*/
+   display: inline-bloc;
    
 }
 
