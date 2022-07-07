@@ -113,7 +113,8 @@ main>aside{
 .trabajos {
    
    display: flex;
-   text-align: center;
+   text-align:center;
+   
    
 }
 
