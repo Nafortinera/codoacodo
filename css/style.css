@@ -110,25 +110,25 @@ main>aside{
 }
 
 
-/*.trabajos {
+.trabajos {
    
    display: flex;
-   text-align: center;
+   /*text-align: center;
    margin-top: 100px;
    margin-bottom: 100px;
    margin-right: 150px;
-   margin-left: 80px;
-}*/
+   margin-left: 80px;*/
+}
 
 .picasion2 {
    
   margin-left: 80px;
 
 }
-/*.picasion3 {
+.picasion3 {
   
-   margin-left: 150px;
-}*/
+   margin-right: 50px;
+}
 
 .info {
    display: flex;
