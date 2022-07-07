@@ -113,7 +113,7 @@ main>aside{
 .trabajos {
    
    display: flex;
-   text-align: center;   
+   margin: center;   
 }
 
 .picasion2 {
