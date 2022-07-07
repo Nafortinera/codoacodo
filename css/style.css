@@ -86,7 +86,7 @@ main>aside{
    /*border: 2px green solid;*/
    min-height: 30px;
    margin: 0.5rem;
-   float: center;
+   /*float: center;*/
    width: auto;
 
 }
@@ -108,19 +108,22 @@ main>aside{
    width: 50%;
    justify-content:first baseline;
 }
+
+
 .trabajos {
    display: flex;
-   /*justify-content: right;
-   /*margin-top: 35px;*/
+   justify-content: right;
+   margin-top: 35px;
 }
 
 .picasion2 {
    
-   margin-right: 500px;
+  /*margin-right: 100px;*/
    
 }
 .picasion3 {
-   margin-left: 350px;
+  
+   margin-left: 500px;
 }
 
 .info {
