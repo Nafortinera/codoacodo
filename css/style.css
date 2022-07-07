@@ -110,7 +110,7 @@ main>aside{
 }
 .trabajos {
    display: flex;
-   justify-content: right;
+   /*justify-content: right;
    /*margin-top: 35px;*/
 }
 
