@@ -116,15 +116,15 @@ main>aside{
    text-align: center;   
 }
 
-/*.picasion2 {
+.picasion2 {
    
   margin-right: 30px;
-  justify-content: center;
+
 }
 .picasion3 {
   
    margin-right: 80px;
-}*/
+}
 
 .info {
    display: flex;
