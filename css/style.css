@@ -112,11 +112,15 @@ main>aside{
 
 .trabajos {
    
-   display: flex;
-   text-align: center;   
+   /*display: flex;
+   text-align: center;*/
+   margin-top: 100px;
+   margin-bottom: 100px;
+   margin-right: 150px;
+   margin-left: 180px;
 }
 
-.picasion2 {
+/*.picasion2 {
    
   margin-left: 50px;
 
@@ -124,7 +128,7 @@ main>aside{
 .picasion3 {
   
    margin-left: 150px;
-}
+}*/
 
 .info {
    display: flex;
