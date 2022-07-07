@@ -112,6 +112,7 @@ main>aside{
 
 .trabajos {
    display: flex;
+   margin-top: auto;
    
 }
 
