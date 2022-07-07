@@ -111,9 +111,9 @@ main>aside{
 
 
 .trabajos {
-   /*display: flex;*/
-   display: inline-bloc;
    
+   display: flex;
+      
 }
 
 .picasion2 {
